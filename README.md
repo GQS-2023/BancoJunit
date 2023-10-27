@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://unform.dev">
-    <img src="https://github.com/GQS-2023/CalculadoraCucumber/assets/45953979/db121376-cbff-437c-801d-a31a83faa022" height="150" width="175" alt="calculadora" />
+    <img src="https://github.com/GQS-2023/BancoJunit/assets/45953979/5f26de80-b7fa-4f30-8946-74531d8a6da9)" height="150" width="175" alt="banco" />
   </a>
 </p>
 
