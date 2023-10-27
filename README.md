@@ -30,10 +30,16 @@
 
 ### ⚙️ Funcionalidades
 
-- [x] Somar 2 números
-- [x] Subtrair 2 números
-- [x] Multiplicar 2 números
-- [x] Dividir 2 números
+- [x] Adicionar cliente
+- [x] Listar clientes
+- [x] Validar idade
+- [x] Ativar cliente
+- [x] Pesquisar cliente
+- [x] Adicionar conta
+- [x] Pesquisar conta
+- [x] Ativar conta
+- [x] Remover conta
+- [x] Transferência
 
 # ✨ Pré-requisitos
 
